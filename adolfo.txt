@@ -1,0 +1,4 @@
+Nombre:Adolfo
+fecha de nacimiento:11 de mayo
+tel:3222222222
+estado civil:casado
