@@ -2,3 +2,7 @@ Nombre:Gerson
 fecha de nacimiento:17 julio
 tel:3222222222
 estado civil:soltero
+direccion:popayan
+profession:tecnologo arte digital
+adolfo
+adolfo
